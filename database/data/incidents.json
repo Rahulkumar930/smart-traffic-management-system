@@ -1,0 +1,41 @@
+[
+  {
+    "_id": "INC001",
+    "title": "Vehicle Accident",
+    "description": "Minor vehicle accident causing traffic slowdown.",
+    "type": "Accident",
+    "severity": "High",
+    "location": {
+      "latitude": 28.6139,
+      "longitude": 77.2090
+    },
+    "status": "Active",
+    "reportedAt": "2026-08-30T08:15:00.000Z"
+  },
+  {
+    "_id": "INC002",
+    "title": "Road Maintenance",
+    "description": "Road maintenance work is in progress.",
+    "type": "Roadwork",
+    "severity": "Medium",
+    "location": {
+      "latitude": 28.5355,
+      "longitude": 77.3910
+    },
+    "status": "Active",
+    "reportedAt": "2026-08-30T08:20:00.000Z"
+  },
+  {
+    "_id": "INC003",
+    "title": "Traffic Signal Failure",
+    "description": "Traffic signal temporarily unavailable.",
+    "type": "SignalFailure",
+    "severity": "High",
+    "location": {
+      "latitude": 28.5672,
+      "longitude": 77.2100
+    },
+    "status": "Resolved",
+    "reportedAt": "2026-08-30T07:45:00.000Z"
+  }
+]

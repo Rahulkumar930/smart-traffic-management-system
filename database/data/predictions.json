@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "PRED001",
+    "location": "MG Road",
+    "predictedVehicleCount": 180,
+    "predictedSpeed": 20,
+    "predictedCongestion": "High",
+    "predictionTime": "2026-08-30T09:30:00.000Z"
+  },
+  {
+    "_id": "PRED002",
+    "location": "Noida Expressway",
+    "predictedVehicleCount": 120,
+    "predictedSpeed": 38,
+    "predictedCongestion": "Medium",
+    "predictionTime": "2026-08-30T09:30:00.000Z"
+  },
+  {
+    "_id": "PRED003",
+    "location": "Golf Course Road",
+    "predictedVehicleCount": 70,
+    "predictedSpeed": 52,
+    "predictedCongestion": "Low",
+    "predictionTime": "2026-08-30T09:30:00.000Z"
+  },
+  {
+    "_id": "PRED004",
+    "location": "Outer Ring Road",
+    "predictedVehicleCount": 210,
+    "predictedSpeed": 15,
+    "predictedCongestion": "High",
+    "predictionTime": "2026-08-30T09:30:00.000Z"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "_id": "TRF001",
+    "roadName": "MG Road",
+    "location": {
+      "latitude": 28.6139,
+      "longitude": 77.2090
+    },
+    "vehicleCount": 145,
+    "averageSpeed": 24,
+    "congestionLevel": "High",
+    "timestamp": "2026-08-30T08:30:00.000Z"
+  },
+  {
+    "_id": "TRF002",
+    "roadName": "Noida Expressway",
+    "location": {
+      "latitude": 28.5355,
+      "longitude": 77.3910
+    },
+    "vehicleCount": 98,
+    "averageSpeed": 42,
+    "congestionLevel": "Medium",
+    "timestamp": "2026-08-30T08:35:00.000Z"
+  },
+  {
+    "_id": "TRF003",
+    "roadName": "Golf Course Road",
+    "location": {
+      "latitude": 28.4595,
+      "longitude": 77.0266
+    },
+    "vehicleCount": 65,
+    "averageSpeed": 55,
+    "congestionLevel": "Low",
+    "timestamp": "2026-08-30T08:40:00.000Z"
+  },
+  {
+    "_id": "TRF004",
+    "roadName": "Outer Ring Road",
+    "location": {
+      "latitude": 28.5672,
+      "longitude": 77.2100
+    },
+    "vehicleCount": 182,
+    "averageSpeed": 18,
+    "congestionLevel": "High",
+    "timestamp": "2026-08-30T08:45:00.000Z"
+  },
+  {
+    "_id": "TRF005",
+    "roadName": "Dwarka Expressway",
+    "location": {
+      "latitude": 28.5921,
+      "longitude": 77.0460
+    },
+    "vehicleCount": 76,
+    "averageSpeed": 48,
+    "congestionLevel": "Low",
+    "timestamp": "2026-08-30T08:50:00.000Z"
+  }
+]

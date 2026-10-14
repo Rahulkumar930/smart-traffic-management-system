@@ -1,0 +1,58 @@
+[
+  {
+    "_id": "SIG001",
+    "signalId": "SIG-001",
+    "intersectionName": "MG Road Junction",
+    "location": {
+      "latitude": 28.6139,
+      "longitude": 77.2090
+    },
+    "status": "Active",
+    "currentPhase": "Green",
+    "greenTime": 45,
+    "yellowTime": 5,
+    "redTime": 60
+  },
+  {
+    "_id": "SIG002",
+    "signalId": "SIG-002",
+    "intersectionName": "Noida Sector 18",
+    "location": {
+      "latitude": 28.5355,
+      "longitude": 77.3910
+    },
+    "status": "Active",
+    "currentPhase": "Red",
+    "greenTime": 50,
+    "yellowTime": 5,
+    "redTime": 55
+  },
+  {
+    "_id": "SIG003",
+    "signalId": "SIG-003",
+    "intersectionName": "Golf Course Crossing",
+    "location": {
+      "latitude": 28.4595,
+      "longitude": 77.0266
+    },
+    "status": "Active",
+    "currentPhase": "Green",
+    "greenTime": 40,
+    "yellowTime": 5,
+    "redTime": 50
+  },
+  {
+    "_id": "SIG004",
+    "signalId": "SIG-004",
+    "intersectionName": "Outer Ring Road Junction",
+    "location": {
+      "latitude": 28.5672,
+      "longitude": 77.2100
+    },
+    "status": "Maintenance",
+    "currentPhase": "Red",
+    "greenTime": 45,
+    "yellowTime": 5,
+    "redTime": 60
+  }
+]

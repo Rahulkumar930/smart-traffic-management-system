@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "ROUTE001",
+    "source": "Connaught Place",
+    "destination": "Noida Sector 18",
+    "distance": 18.5,
+    "estimatedTime": 42,
+    "congestionLevel": "Medium",
+    "recommended": true
+  },
+  {
+    "_id": "ROUTE002",
+    "source": "Connaught Place",
+    "destination": "Gurugram",
+    "distance": 28.2,
+    "estimatedTime": 55,
+    "congestionLevel": "High",
+    "recommended": false
+  },
+  {
+    "_id": "ROUTE003",
+    "source": "Dwarka",
+    "destination": "Gurugram",
+    "distance": 21.4,
+    "estimatedTime": 38,
+    "congestionLevel": "Low",
+    "recommended": true
+  },
+  {
+    "_id": "ROUTE004",
+    "source": "Noida",
+    "destination": "Greater Noida",
+    "distance": 32.6,
+    "estimatedTime": 48,
+    "congestionLevel": "Medium",
+    "recommended": true
+  }
+]
